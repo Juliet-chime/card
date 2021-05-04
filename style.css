@@ -72,6 +72,18 @@
     width: 100px;
     height: 90px;
 } 
+
+.card-text01 h1{
+    padding-top: 5px;
+    color: white;
+} 
+
+.card-text01 h6{
+    padding-top: 5px;
+    color: white;
+    font-weight: lighter;
+  } 
+
 .card-text0{
     width: 100px;
     height: 90px;
@@ -84,22 +96,13 @@
       color: white;
 } 
 
-.card-text01 h1{
-    padding-top: 5px;
-    color: white;
-} 
-
 .card-text0 h6{
     padding-top: 5px;
     color: white;
     font-weight: lighter;
 } 
 
-.card-text01 h6{
-  padding-top: 5px;
-  color: white;
-  font-weight: lighter;
-} 
+
 
 @media screen and (max-width: 992px) {
    
